@@ -1,0 +1,13 @@
+C:\Users\Junioreddn\source\repos\Eployex\Eployex\bin\Debug\netcoreapp3.1\Eployex.exe
+C:\Users\Junioreddn\source\repos\Eployex\Eployex\bin\Debug\netcoreapp3.1\Eployex.deps.json
+C:\Users\Junioreddn\source\repos\Eployex\Eployex\bin\Debug\netcoreapp3.1\Eployex.runtimeconfig.json
+C:\Users\Junioreddn\source\repos\Eployex\Eployex\bin\Debug\netcoreapp3.1\Eployex.runtimeconfig.dev.json
+C:\Users\Junioreddn\source\repos\Eployex\Eployex\bin\Debug\netcoreapp3.1\Eployex.dll
+C:\Users\Junioreddn\source\repos\Eployex\Eployex\bin\Debug\netcoreapp3.1\Eployex.pdb
+C:\Users\Junioreddn\source\repos\Eployex\Eployex\obj\Debug\netcoreapp3.1\Eployex.csprojAssemblyReference.cache
+C:\Users\Junioreddn\source\repos\Eployex\Eployex\obj\Debug\netcoreapp3.1\Eployex.AssemblyInfoInputs.cache
+C:\Users\Junioreddn\source\repos\Eployex\Eployex\obj\Debug\netcoreapp3.1\Eployex.AssemblyInfo.cs
+C:\Users\Junioreddn\source\repos\Eployex\Eployex\obj\Debug\netcoreapp3.1\Eployex.csproj.CoreCompileInputs.cache
+C:\Users\Junioreddn\source\repos\Eployex\Eployex\obj\Debug\netcoreapp3.1\Eployex.dll
+C:\Users\Junioreddn\source\repos\Eployex\Eployex\obj\Debug\netcoreapp3.1\Eployex.pdb
+C:\Users\Junioreddn\source\repos\Eployex\Eployex\obj\Debug\netcoreapp3.1\Eployex.genruntimeconfig.cache
